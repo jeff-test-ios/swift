@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:SE-0235 Add Result to the Standard Library.xcodeproj">
    </FileRef>
 </Workspace>
